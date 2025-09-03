@@ -61,4 +61,37 @@ h1 {
 }
 
 
+/* On tablets/phones: The profile and text is stacked one below the other */
+@media (max-width: 992px) {   /* trigger earlier, e.g., bootstrap md/lg breakpoint */
+  .about-block {
+    display: flex;
+    flex-direction: column; /* stack items vertically */
+    align-items: center; /* centers both image and text */
+    text-align: left; /* Controls the position of the text within the about section */
+  }
+
+  .profile-pic {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto 1rem auto;
+  }
+
+  .about-block h1 {
+    font-size: 2rem; /* scale down name */
+  }
+
+  .intro-hi {
+    font-size: 1rem;
+  }
+
+  .social-icons {
+    justify-content: center;
+  }
+
+  .social-icons .icon {
+    font-size: 24px;
+    margin-right: 20px;
+  }
+
+}
 
