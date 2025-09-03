@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ritu V Malage"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#experience
+        text: Experience
+      - href: index.qmd#skills
+        text: Skills
+      - href: index.qmd#news
+        text: News
+      - href: index.qmd#projects
+        text: Projects & Publications
+      - href: index.qmd#education
+        text: Education
+  page-footer: 
+    left: Copyright 2025, Ritu V. Malage
+    right: This website was made with using <a href="https://quarto.org/">Quarto</a>.
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false # To show table of contents on the right side of the page set the parameter to true
+    include-in-header: 
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+          <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    page-layout: full # Controls the width of the container

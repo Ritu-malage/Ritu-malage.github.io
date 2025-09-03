@@ -1,0 +1,5 @@
+- **Programming Languages**: Python, C  
+- **Frameworks & Libraries**: PyTorch, TensorFlow, Hugging Face, OpenCV, Scikit-learn, Keras, LangChain, Flask  
+- **AI/ML/DL**: LLMs, Generative AI, RAG, Transformers, Computer Vision  
+- **Tools & Platforms**: Git, ElasticSearch, Postman, Ollama  
+- **Databases**: FAISS, ChromaDB 

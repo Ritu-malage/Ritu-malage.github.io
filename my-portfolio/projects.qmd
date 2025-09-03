@@ -1,0 +1,22 @@
+
+##### **Low Resource Speech-to-Speech Translation of English videos to Kannada with Lip-Synchronization**
+[ICICCS 2023](https://ieeexplore.ieee.org/xpl/conhome/10142228/proceeding)
+
+- Devised a speech-to-speech translation system with ASR, NMT, TTS, and lip-synchronization; achieved BLEU score of 85.26%
+for translation, MOS of 4.56 for lip-synced video, and MOS of 4.94 for synthesized audio, enabling seamless audio-visual
+alignment.\
+[Paper](https://ieeexplore.ieee.org/abstract/document/10142578)
+
+##### **Non-Sequential Indexing of Videos using Linguistic Computation**
+[ICACRS 2022](https://ieeexplore.ieee.org/xpl/conhome/10028980/proceeding)
+
+- Developed a non-sequential video indexing system leveraging ASR, NLP, and OCR to auto-generate keyword-based timestamps
+with a tolerance of ±2s from ground truth.\
+[Paper](https://ieeexplore.ieee.org/abstract/document/10029031)
+
+##### **Estimation of Engagement of Learners in MOOCs using Smart Visual Processing**
+[ICICC 2021](https://icicc-conf.com/icicc21)
+
+- Developed a computer-vision-based system for real-time student engagement estimation in online lectures using gaze detection,
+head pose estimation, drowsiness detection, and anti–video-spoofing models to quantify learners’ attention.\
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884503)

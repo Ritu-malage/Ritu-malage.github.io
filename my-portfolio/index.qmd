@@ -1,0 +1,70 @@
+
+
+::: {.grid .about-block}
+
+::: {.g-col-4}
+![](images/profile.jpg){.profile-pic}
+:::
+
+::: {.g-col-8}
+
+
+<span class="intro-hi">Hi, I’m</span>  
+
+# Ritu V. Malage
+
+an AI-ML Engineer at Pronisi with over 2 years of experience in building and deploying end-to-end intelligent systems across Computer Vision, Machine Learning, and Generative AI. 
+I hold a Bachelor's Degree in Computer Science and Engineering from [PES University](https://pes.edu/), where I developed a strong foundation in algorithms and applied machine learning.\
+At Pronisi, I have contributed to projects ranging from real-time activity analysis and posture assessment pipelines to RAG-powered recommendation systems with LLMs, while also driving efficiency through pipeline optimization and scalable architectures.
+Alongside engineering, I’ve mentored interns and introduced Agile practices to strengthen collaboration and improve sprint productivity.\
+My journey extends beyond engineering into research contributions and applied innovation, with work published at various conferences, reflecting my passion for bridging advanced AI research with real-world applications.
+
+<div class="social-icons">
+  <a href="mailto:ritu172000@gmail.com">
+    <i class="bi bi-envelope-fill icon"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/ritu-malage/">
+    <i class="bi bi-linkedin icon"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=PGZKE-QAAAAJ&hl=en">
+    <i class="bi bi-mortarboard-fill icon"></i>
+    
+
+  </a>
+
+</div>
+:::
+
+:::
+
+---
+
+# Experience {#experience}
+
+{{< include experience.qmd >}} 
+
+---
+
+# Skills {#skills}
+
+{{< include skills.qmd >}}
+
+---
+
+# News {#news}
+
+{{< include news.qmd >}}
+
+---
+
+# Projects & Publications {#projects}
+
+{{< include projects.qmd >}}
+
+---
+
+# Education
+
+{{< include education.qmd >}}
+
+---

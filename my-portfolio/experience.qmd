@@ -1,0 +1,44 @@
+
+### Pronisi Inc.
+**AIML Engineer** | Jun 2023 - Present 
+
+- Designed a recommendation engine using Retrieval-Augmented Generation (RAG) with Large Language Models (LLMs), Ollama, and ChromaDB to deliver personalized, context-aware feedback that mimics the tone and style of domain professionals, enhancing overall user experience.
+- Engineered a lightweight, mobile-deployable side-orientation system by integrating BlazePose Lightning, metric computation, and KNN classification; achieved ~86% accuracy.
+- Built a real-time exercise repetition counter by integrating MediaPipe-based pose estimation with peak and trough detection algorithms to track movement cycles.
+- Engineered spatio-temporal transformations on pose data to to normalize orientation, scale, and position, allowing accurate trajectory alignment and cross-video comparison across different recording conditions.
+- Implemented clustering-based segmentation on pose and motion data to identify discrete steps within sequential activity routines, achieving 83% accuracy.
+- Enhanced video analysis techniques by developing robust methods for comparing motion sequences using keyframe detection and generating a consolidated evaluation score.
+<div class="skills">
+  <span>Python</span> 
+  <span>MediaPipe</span> 
+  <span>BlazePose Lightning</span> 
+  <span>scikit-learn</span> 
+  <span>Pandas</span> 
+  <span>HuggingFace</span> 
+  <span>NumPy</span>
+  <span>PyTorch</span>
+  <span>Keras</span>
+</div>
+
+**AIML Engineer - Intern** | Jun 2022 - Jun 2023  
+
+- Designed and executed end-to-end dataset pipelines, including data collection, annotation, labeling, and preprocessing, to generate high-quality inputs for model training.
+- Performed statistical and exploratory data analysis (EDA) on temporal data to identify patterns, detect anomalies, and extract key indicators for downstream model development.
+- Implemented test cases for all functionalities using Pytest, ensuring robust validation of new features. This accelerated bug resolution, reduced staging and deployment errors, streamlined debugging, and improved overall product stability.
+- Streamlined the computational pipeline by parallelizing independent processing stages and eliminating redundant executions through a unified reference framework for transformations, achieving a 20% reduction in overall compute time.
+<div class="skills">
+  <span>Python</span> 
+  <span>Matplotlib</span> 
+  <span>Pytest</span> 
+  <span>Threads</span> 
+</div>
+
+### Nivetti Systems
+**Software Engineer Intern** | Jun 2022 - Aug 2023  
+
+- Developed techniques for profiling digital network assets to detect anomalies and recommend an optimal threshold parameter by analyzing common and irregular network behaviors to enhance security monitoring and threat detection.
+<div class="skills">
+  <span>Python</span> 
+  <span>Wireshark</span> 
+  <span>ElasticSearch</span> 
+</div>

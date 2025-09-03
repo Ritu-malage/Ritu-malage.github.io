@@ -1,0 +1,10 @@
+
+- **Jul 2025**: Participated in [Google Agentic AI Hackathon](https://vision.hack2skill.com/event/googlecloudagenticaiday2025?utm_source=hack2skill&utm_medium=homepage) 
+- **June 2023**: Started my journey as an AIML Engineer at [Pronisi Inc.](https://www.slamdunk.ai/)
+- **May 2023**: Presented paper on [speech to speech translation with lip synchronization]((https://ieeexplore.ieee.org/abstract/document/10142578)) at [ICICCS 2023](https://ieeexplore.ieee.org/xpl/conhome/10142228/proceeding)
+- **June 2022**: Onboarded as an AIML Intern at [Pronisi Inc.](https://www.slamdunk.ai/)
+- **June 2022**: Joined as a Software Engineer Intern at [Nivetti Systems](https://nivettisystems.com/)
+- **Nov 2022**: 1st Runner-Up in [The Kannada Hackathon](https://events.pes.edu/10646/) | _Certificate_
+- **Dec 2022**: Published research on [non-sequential video indexing]((https://ieeexplore.ieee.org/abstract/document/10029031)) at [ICACRS 2022](https://ieeexplore.ieee.org/xpl/conhome/10028980/proceeding).
+- **Oct 2021**: Secured 1st Runner-Up position at the [HashCode 2K21 Hackathon](https://pes-innovation-lab-hashcode.devfolio.co/overview) hosted by [PES Innovation Lab](https://www.theinnovationlab.in/) | _Certificate_
+- **July 2021**: Presented and published original research on [modeling learner engagement in MOOCs]((https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884503)) at [ICICC 2021](https://icicc-conf.com/icicc21).
